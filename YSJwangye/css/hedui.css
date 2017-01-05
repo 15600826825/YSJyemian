@@ -1,0 +1,137 @@
+.main1{
+	width: 700px;
+	height: 46px;
+	margin-top:20px;
+	margin-left: 440px;
+}
+.main_h2{
+	width: 980px;
+	padding-left: 20px;
+	line-height: 40px;
+	margin: 20px auto 0;
+	background-color: #ebeaea;
+}
+.main2{
+	width: 1000px;
+	height: 205px;
+	margin: 10px auto 0;
+	border: 1px solid #ebeaea;
+}
+.main2 p,.main3 p{
+	margin: 15px 0 0 20px;
+}
+.main2 .btn{
+	margin: 20px 0 0 20px;
+}
+.main2 .btn .btn1{
+	width: 95px;
+	height: 30px;
+	background-color: #d31920;
+	color: white;
+	text-align: center;
+	line-height: 30px;
+	border: none;
+	
+}
+.main2 .btn .btn2{
+	width: 60px;
+	height: 30px;
+	background-color:#999999;
+	color: white;
+	text-align: center;
+	line-height: 30px;
+	border: none;
+	
+}
+.main3{
+	width: 1000px;
+	height: 115px;
+	margin: 10px auto 0;
+	border: 1px solid #ebeaea;
+}
+.main4{
+	width: 1000px;
+	height: 220px;
+	margin: 10px auto 0;
+	border: 1px solid #ebeaea;
+}
+.main4 img{
+	margin: 20px 0 0 20px;
+}
+.main4 a{
+	color: #CC0001;
+}
+.main4 .p1{
+	margin: 20px 0 0 20px;
+}
+.main4 .p2{
+	margin: 20px 0 0 120px;
+	line-height: 25px;
+	color: #CC0001;
+}
+.main5{
+	width: 1000px;
+	height: 60px;
+	margin: 10px auto 0;
+	background-color:#ebeaea ;
+}
+.main5 li,.main6 li{
+	float: left;
+	width: 130px;
+	height: 60px;
+	line-height: 60px;
+	text-align: center;
+}
+.main5 .li1,.main6 .li1{
+	width: 315px;
+}
+.main6{
+	width: 1000px;
+	height: 103px;
+	margin:0 auto;
+	border: 1px solid #ebeaea;
+}
+.main7{
+	width: 1000px;
+	height: 150px;
+	margin:0 auto;
+	border: 1px solid #ebeaea;
+}
+.main7 .main7l{
+	float: left;
+}
+.main7 .main7l p{
+	margin: 15px 0 0 20px;
+}
+.main7 .main7l p a{
+	color: #CC0001;
+}
+.main7 .main7r{
+	float: right;
+	margin-right: 20px;
+}
+.main7 .main7r p{
+	margin: 15px 0 0 20px;
+}
+.main7 .main7r .p1{
+	font-size: 18px;
+	color: #CC0001;
+}
+.main8{
+	width: 1000px;
+	height: 150px;
+	margin:0 auto;
+}
+.main8 p{
+	margin: 10px 0 0 20px;
+	margin-left: 800px;
+}
+.main8 p .btn1{
+	width: 95px;
+	height: 30px;
+	background-color: #d31920;
+	color: white;
+	text-align: center;
+	line-height: 30px;
+	border: none;
+}
